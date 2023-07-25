@@ -10,5 +10,7 @@ This is a Microsoft PowerBI dashboard created on the data of an Online Food Deli
 
 ### The DASHBOARD - 
 <img width="602" alt="FoodDeliveryDashboard" src="https://github.com/nikhil7700/Food-delivery-PowerBI-dashboard/assets/90492979/cfce6daa-4e7b-4545-bc4e-6572e3d066db">
-![Screenshot 2023-07-25 115219](https://github.com/nikhil7700/Food-delivery-PowerBI-dashboard/assets/90492979/3f1b2c3d-9fc5-4f4f-97de-208fdd249fa2)
+
+![Screenshot 2023-07-25 115219](https://github.com/nikhil7700/Food-delivery-PowerBI-dashboard/assets/90492979/9935312a-75aa-4008-8de4-78cad3911c59)
+
 
